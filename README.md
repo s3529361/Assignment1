@@ -1,10 +1,10 @@
 ## Personal Information
 
-Name: Andrew Bonney
-Student Number: s3529361
-E-Mail Address: s3529361@student.rmit.edu.au
-Nationality & Culture: Australian (Background is: English, Scottish, German, Irish, Dutch, Italian and Spanish)
-Education: Certificate IV in Information Technology (Completed), Associate Degree in IT (In Progress)
+-Name: Andrew Bonney
+-Student Number: s3529361
+-E-Mail Address: s3529361@student.rmit.edu.au
+-Nationality & Culture: Australian (Background is: English, Scottish, German, Irish, Dutch, Italian and Spanish)
+-Education: Certificate IV in Information Technology (Completed), Associate Degree in IT (In Progress)
 
 
 
