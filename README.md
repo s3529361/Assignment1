@@ -7,8 +7,13 @@
 * Education: Certificate IV in Information Technology (Completed), Associate Degree in IT (In Progress)
 * Language(s) Spoken: English, Italian (A little)
 
+A fact or two about myself is that I didn't always want to work in IT, I have a strong interest in History (especially Military History) and always wanted to be a Historian, but I also had a passion for Technology and in the end chose IT over History, especially since job wise it's easier to get a career in IT. I still study History for fun and watch tons of documentaries.
 
+## Interest in IT
 
+_What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any)._
+
+I'm very interested in IT to the point all of my careers in my adult life have been in the IT industry and hoping to keep that way. The moment I truly became interested in IT for a career was my Religious Education teacher in Year 12 telling me about a traineeship offer at my former High school and given the fact I didn't know what I wanted to do outside of High School gave me inspiration. I have nearly two years in IT experience having worked a traineeship in 2014 at my old High School and my current job as an ICT Support Officer for an Aftermarket Automotive/Airconditioning Company.
 
 ### Markdown
 
