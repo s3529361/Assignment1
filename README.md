@@ -1,5 +1,7 @@
 ## Personal Information
 
+
+
 * Name: Andrew Bonney
 * Student Number: s3529361
 * E-Mail Address: s3529361@student.rmit.edu.au
@@ -15,9 +17,16 @@ _What is your interest in IT? When did your interest in IT start? Was there a pa
 
 I'm very interested in IT to the point all of my careers in my adult life have been in the IT industry and hoping to keep that way. The moment I truly became interested in IT for a career was my Religious Education teacher in Year 12 telling me about a traineeship offer at my former High school and given the fact I didn't know what I wanted to do outside of High School gave me inspiration. I have nearly two years in IT experience having worked a traineeship in 2014 at my old High School and my current job as an ICT Support Officer for an Aftermarket Automotive/Airconditioning Company.
 
-### Markdown
+_Why did you choose to come to RMIT?_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+After finishing my traineeship I was given a Certificate III in IT and wanted to expand my skills and further my education to get a better job in IT. Friends, former teachers and colleagues always suggested RMIT and given that RMIT caters to Technology and ease of access through public transport from where I live meant RMIT was the way to go!
+
+_What do you expect to learn during your studies?_
+
+Considering I am in the last semester of my studies for this Degree, I'll go over both what I expected and what I expect going forward. I expected a lot of hands on stuff in the Associate Degree but was met with more theory work than practical, though I have found some of the theory stuf I learnt (networking, programming, coding etc) to be quite relevant to my current line of work. In my last bit of studies I'm expecting to learn about some more HTML, how Virtualisation works in a corporate environment and the benefits it has to offer for the future.
+
+## Ideal Job
+
 
 ```markdown
 Syntax highlighted code block
