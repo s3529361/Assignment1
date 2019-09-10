@@ -1,6 +1,6 @@
 ## Personal Information
 
-
+<img src="https://media.discordapp.net/attachments/379062178499657784/620940565961375744/test.PNG"> 
 
 * Name: Andrew Bonney
 * Student Number: s3529361
@@ -26,6 +26,25 @@ _What do you expect to learn during your studies?_
 Considering I am in the last semester of my studies for this Degree, I'll go over both what I expected and what I expect going forward. I expected a lot of hands on stuff in the Associate Degree but was met with more theory work than practical, though I have found some of the theory stuf I learnt (networking, programming, coding etc) to be quite relevant to my current line of work. In my last bit of studies I'm expecting to learn about some more HTML, how Virtualisation works in a corporate environment and the benefits it has to offer for the future.
 
 ## Ideal Job
+
+ <a href="https://www.seek.com.au/job/39850179?type=standard&searchrequesttoken=e019c528-7a29-4543-984b-5c90d9a34d71">Senior Systems Administrator</a> 
+ 
+<div class="row">
+  <div class="column">
+    <img src="https://media.discordapp.net/attachments/379062178499657784/620943383812243456/unknown.png?width=366&height=677">
+  </div>
+  <div class="column">
+    <img src="https://media.discordapp.net/attachments/379062178499657784/620944946874155009/unknown.png">
+  </div>
+</div>
+
+
+
+
+
+
+
+
 
 
 ```markdown
