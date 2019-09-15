@@ -42,7 +42,7 @@ _A description (in your own words) of the position, and particularly what makes 
 
 A Senior Systems Administrator in my opinion manages a team of system administrators & other employees of the IT department.  They are responsible for designing, planning, implementing and overseeing system installations, as well as monitoring and maintaining an organisation's servers and assessing new server hardware and software. The reason this position appeals to me is because I would love to manage an IT Department one day after many year experience and a few certificates under my belt to implement a company's network and server infrastructure, especially with Virtualisation involved!
 
-_A description (in your own words) of the skills, qualifications and experience required for the position._
+#### _A description (in your own words) of the skills, qualifications and experience required for the position._
 
 The requirements for this position are the following:
 
@@ -63,7 +63,7 @@ One of the following certificates or more:
 - (MCP) Microsoft Certified Professional
 - (MCSE) Microsoft Certified Solutions Expert
 
-_A description (in your own words) of the skills, qualifications and experience you currently have._
+#### _A description (in your own words) of the skills, qualifications and experience you currently have._
 
 To summarise my qualifications and experience would be the following:
 
@@ -81,7 +81,7 @@ Skills:
 -	Understanding of I.T Networking
 -	AV Support (Mainly Projectors & Interactive Whiteboards)
 
-_A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can._
+#### _A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can._
 
 
 
