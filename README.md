@@ -46,31 +46,31 @@ _A description (in your own words) of the skills, qualifications and experience 
 
 The requirements for this position are the following:
 
--A firm understanding of server hardware and software technology, troubleshooting, and researching new techniques.  
--Practical knowledge of software, hardware design and recovery techniques.    
--Strong knowledge of Windows 2012/2008 Active Directory, security Group Policy (GPO), scripting, print services and other management/administration duties. 
--Knowledge of Microsoft Exchange 2010 administration, Office 365 and related messaging services.  
--Strong knowledge of server backups.
--Experience administering servers with VMware vSphere 6  
--Analytical, organizational skills and the ability to multitask several tasks.
--Strong verbal & written communication skills & able to conduct technical documentation skills. 
--3+ years’ experience in supporting server systems administration in a large IT environment. 
+- A firm understanding of server hardware and software technology, troubleshooting, and researching new techniques.  
+- Practical knowledge of software, hardware design and recovery techniques.    
+- Strong knowledge of Windows 2012/2008 Active Directory, security Group Policy (GPO), scripting, print services and other management/administration duties. 
+- Knowledge of Microsoft Exchange 2010 administration, Office 365 and related messaging services.  
+- Strong knowledge of server backups.
+- Experience administering servers with VMware vSphere 6  
+- Analytical, organizational skills and the ability to multitask several tasks.
+- Strong verbal & written communication skills & able to conduct technical documentation skills. 
+- 3+ years’ experience in supporting server systems administration in a large IT environment. 
 
 One of the following certificates or more:
 
--Red Hat certifications in RHCA, RHCE & RHCVA
--(VCP, VCAP, VCIX) VMware Certified Professional
--(MCP) Microsoft Certified Professional
--(MCSE) Microsoft Certified Solutions Expert
+- Red Hat certifications in RHCA, RHCE & RHCVA
+- (VCP, VCAP, VCIX) VMware Certified Professional
+- (MCP) Microsoft Certified Professional
+- (MCSE) Microsoft Certified Solutions Expert
 
 _A description (in your own words) of the skills, qualifications and experience you currently have._
 
 To summarise my qualifications and experience would be the following:
 
--Certificate III in Information, Digital Media & Technology
--Certificate IV in Information Technology Networking
--Associate Degree in Information Technology (To be completed end of 2019)
--Nearly two years of experience in the IT Industry.
+- Certificate III in Information, Digital Media & Technology
+- Certificate IV in Information Technology Networking
+- Associate Degree in Information Technology (To be completed end of 2019)
+- Nearly two years of experience in the IT Industry.
 
 Skills:
 
