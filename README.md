@@ -38,8 +38,17 @@ Considering I am in the last semester of my studies for this Degree, I'll go ove
   </div>
 </div>
 
+_A description (in your own words) of the position, and particularly what makes this position appealing to you._
+
+A Senior Systems Administrator in my opinion manages a team of system administrators & other employees of the IT department.  They are responsible for designing, planning, implementing and overseeing system installations, as well as monitoring and maintaining an organisation's servers and assessing new server hardware and software. The reason this position appeals to me is because I would love to manage an IT Department one day after many year experience and a few certificates under my belt to implement a company's network and server infrastructure, especially with Virtualisation involved!
+
+_A description (in your own words) of the skills, qualifications and experience required for the position.-
 
 
+_A description (in your own words) of the skills, qualifications and experience you currently have._
+
+
+_A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can._
 
 
 
