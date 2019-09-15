@@ -42,11 +42,44 @@ _A description (in your own words) of the position, and particularly what makes 
 
 A Senior Systems Administrator in my opinion manages a team of system administrators & other employees of the IT department.  They are responsible for designing, planning, implementing and overseeing system installations, as well as monitoring and maintaining an organisation's servers and assessing new server hardware and software. The reason this position appeals to me is because I would love to manage an IT Department one day after many year experience and a few certificates under my belt to implement a company's network and server infrastructure, especially with Virtualisation involved!
 
-_A description (in your own words) of the skills, qualifications and experience required for the position.-
+_A description (in your own words) of the skills, qualifications and experience required for the position._
 
+The requirements for this position are the following:
+
+-A firm understanding of server hardware and software technology, troubleshooting, and researching new techniques.  
+-Practical knowledge of software, hardware design and recovery techniques.    
+-Strong knowledge of Windows 2012/2008 Active Directory, security Group Policy (GPO), scripting, print services and other management/administration duties. 
+-Knowledge of Microsoft Exchange 2010 administration, Office 365 and related messaging services.  
+-Strong knowledge of server backups.
+-Experience administering servers with VMware vSphere 6  
+-Analytical, organizational skills and the ability to multitask several tasks.
+-Strong verbal & written communication skills & able to conduct technical documentation skills. 
+-3+ years’ experience in supporting server systems administration in a large IT environment. 
+
+One of the following certificates or more:
+
+-Red Hat certifications in RHCA, RHCE & RHCVA
+-(VCP, VCAP, VCIX) VMware Certified Professional
+-(MCP) Microsoft Certified Professional
+-(MCSE) Microsoft Certified Solutions Expert
 
 _A description (in your own words) of the skills, qualifications and experience you currently have._
 
+To summarise my qualifications and experience would be the following:
+
+-Certificate III in Information, Digital Media & Technology
+-Certificate IV in Information Technology Networking
+-Associate Degree in Information Technology (To be completed end of 2019)
+-Nearly two years of experience in the IT Industry.
+
+Skills:
+
+-	Microsoft based System Administration (example Active Directory, Group Policy, Microsoft Exchange)
+-	Communication skills based on Helpdesk Support experience (such as translating computer jargon to non-technical Savvy clients).
+-	Proficiency in Windows based operating systems (Especially XP, 7, 8.1 & 10) & Windows based applications (such as Microsoft Word)
+-	Experience in Windows Server (2008 & 2012)
+-	Understanding of I.T Networking
+-	AV Support (Mainly Projectors & Interactive Whiteboards)
 
 _A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can._
 
