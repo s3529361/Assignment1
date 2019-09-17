@@ -83,9 +83,9 @@ Skills:
 
 #### _A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can._
 
+The plan for me to obtain the necessary skills, qualifications and experience is to finish my Associate Degree, do a Bachelor Degree in IT at RMIT but do it online so I can continue to work and get experience at my current job. I hope that at somepoint upon concluding my Bachelor and getting a more higher tier job (System Admin compared to say Level 1/2 Support) I will get an MCSE or any relevant Microsoft Certification related to my necessary field of work (be it Systems Administration, Networking etc).
 
-
-
+## Personal Profile
 
 
 
