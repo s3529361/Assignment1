@@ -124,14 +124,22 @@ When forming a team I hope to incorporate parts of my Visual Learning Style that
 
 ### One Further Online Test of your choosing:
 
+<a href="https://www.truity.com/personality-test/13683/test-results/9383542">The Big Five Personality Test</a> 
+
+<img src= "https://media.discordapp.net/attachments/379062178499657784/623890838577217557/unknown.png">
+
+(Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism)
+
 #### _What do the results of these tests mean for you?_
 
+The results of these test mean various things for me and I don't necessarily agree with having a high neuroticism score for example. In my observation from the results of these test scoring high in Conscientiousness & Agreeableness categories is really good for teamwork though perhaps my average score in Openess & Extraversion can limit me from thinking outside the bok & being creative with things, something I'd have to consider going forward.
 
 #### _How do you think these results may influence your behaviour in a team?_
 
-
-
+The results will influence me in several ways, I think having a high score in agreeableness means I'd rather cooperate than compete with someone in a team or look out for my own self interest (even during High School when I was "meant" to compete with people for grades, I preferred working with people). Being conscientiousness means bringing my organisation and determination will be a positive thing for the team but keeping my apparent "neuroticism" in check.
 
 #### _How should you take this into account when forming a team?_ 
+
+When forming a team I need to understand my personal constraints and pair up people who do well in Openess and get low scores in Extraversion, that way there's a wide range of personality types where we can play off each other's strengths and weaknesses. I'd have to be wary of people who aren't as "agreeable" as myself and try to compromise when possible so whatever project I have with a team can get sorted out.
 
 
