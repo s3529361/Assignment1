@@ -87,32 +87,51 @@ The plan for me to obtain the necessary skills, qualifications and experience is
 
 ## Personal Profile
 
+### Myers-Briggs Test:
+
+<a href="https://www.16personalities.com/intj-personality">INTJ-T Personality</a> 
+
+#### _What do the results of these tests mean for you?_
+
+I was a bit surprised of some parts of the test because it reflects me very well! More often than not I agreed with the results of the test as I found myself relating to many aspects of it. It reinforces many traits of my personality (Hard-working, determined, Introverted and Independant), however it also serves as a reminder to look out for in regards to my approach with situations in life (such as working with teams and how personality can clash).
+
+#### _How do you think these results may influence your behaviour in a team?_
+
+The Architect Personality may influence me in several ways for better or worse, the good parts are being Hard-Working and Determined which in a team is quite important for someone to have, meaning they can get the work done and want to get the work done. Some of the not so great parts that will influence my behaviour in a bad way is being over analytical in that getting bogged down and overly picky in the finer details of things, which can be quite annoying for your fellow team members!
+
+#### _How should you take this into account when forming a team?_ 
+
+When forming a team, the best way I intend to take into account the pros and con of my personality is to ensure that I don't get worked up in every aspect of a project and not try to get too overly involved in every minor detail of a project with a team.  The Jack of All Trades sort of approach & being Hardworking will in my mind benefit any team I'm part of.
+
+### Learning Style Test
+
+<img src="https://media.discordapp.net/attachments/379062178499657784/623821916884697088/Capture.PNG?width=732&height=676">
 
 
-```markdown
-Syntax highlighted code block
+#### _What do the results of these tests mean for you?_
 
-# Header 1
-## Header 2
-### Header 3
+For me, the results of these test honestly don't surprise me at all. While I am hardworking and such, distractions are my weakness especially when working on a task that doesn't engage me or I actually enjoy doing & seek something visual to appease my boredom. I've always preferred visual elements such as powerpoints, having documents and such ready for me to learn from in class instead of just listening to a person speak in a lecture and being expected to take notes and learn that way, it just doesn't click in my mind and I prefer practical ways of learning instead of theory.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### _How do you think these results may influence your behaviour in a team?_
 
-**Bold** and _Italic_ and `Code` text
+Being a Visual learner means I need to keep in check the part of me that gets easily distracted when I should be working with others or on a task, as sounds and other things like non-productive activites (eg Phone) means I can lose interest or such.  
 
-[Link](url) and ![Image](src)
-```
+#### _How should you take this into account when forming a team?_ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+When forming a team I hope to incorporate parts of my Visual Learning Style that I think will benefit the team such as being neat and tidy, having pictures and other visual elements in a project that I think will be benefical to a team. However I need to make sure I don't get distracted by noise and other things that may wane my attention when forming a team & working with said team.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s3529361/Assignment1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### One Further Online Test of your choosing:
 
-### Support or Contact
+#### _What do the results of these tests mean for you?_
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+#### _How do you think these results may influence your behaviour in a team?_
+
+
+
+
+#### _How should you take this into account when forming a team?_ 
+
+
