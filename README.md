@@ -157,9 +157,26 @@ The interest for this project is due to the severe lagging in AFL sports game re
 
 ### Description
 
+The features of the project, AFL 2020 will allow people to jump into the AFL and play one of the eighteen teams in the competition in a “Career Mode” in which the player will manage one of the eighteen teams and verse AI teams in rounds to compete for the Premiership, letting players select positions of their team’s players, delist, trade and upgrade skills of their roster. Additional career modes will be available for the reserve leagues around the state including the SANFL, WAFL, VFL as well as the Under 18’s TAC Cup and the Woman’s Football League (AFLW), which will feature the current roster as of the start of 2019.
 
+Players will be able to play at all current stadiums in the AFL & other leagues with a generated spectator crowd, recorded commentary from current commentators such as Brian Taylor & Bruce McAvaney as well as ambient noise to make the video game feel alive with the crowd members wearing the colours of the two teams playing (the home team will have more supporters in their colours than the away team to represent a realistic AFL game). As the player progresses through a match, the player’s sponsor will give them a cash reward in addition to membership & ticket income which will go towards the team’s finances to maintain player contracts and pay for existing player’s contracts as well as new players at the draft after the conclusion of the season (which the player can draft new players or use the draft picks to trade with other clubs). 
 
+Overall, Career Mode is designed to give an authentic experience of managing an AFL club while actively playing as the individual players, alternative modes include “Quick Play” where if you want a quick game you can play a one off AFL match or the “Go Pro” mode, a similar mode in games such as FIFA & NBA where it allows the player to create a character and guide them through their career, starting as an under 18 player, play in one of the minor leagues such as the VFL and SANFL and eventually progress into the AFL, letting the player pick the character’s appearance and position.
 
+Finally the mechanics of the game simulate AFL, with the objective to outscore your opponent in four quarters by kicking goals or points, goals being worth six points and behinds being worth one. The gameplay will be largely divided up into two modes, when in possession of the ball you will be able to do the following:
+
+-Kick the ball to a player & mark or towards the forward 50
+-Handball to another player
+-If close enough to the goals, kick for goal (Either by drop punt, torpedo, kicking off the ground etc)
+
+Without possession of the ball:
+
+-Tackle the opposition player who posses the ball if in proximity 
+-Spoil in a marking contest.
+
+Both modes include the ability to sprint and move around freely with options to changes players on the interchange bench, with random simulations for injury as well as umpiring decisions that follow AFL (such as holding the ball or going out of bounds).
+
+Overall AFL 2020 will give a realistic simulator of an AFL Match that passionate football supporters will know and love.
 
 ### Tools and Technologies
 
