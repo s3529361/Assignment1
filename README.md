@@ -163,7 +163,11 @@ The interest for this project is due to the severe lagging in AFL sports game re
 
 ### Tools and Technologies
 
+The software required for this project will be the Unity 3D engine, which is programmed using C# and considering this project will be released commercially, the Professional version of Unity will be required which costs $75 per month. The hardware needed to run the Unity engine to model and code the computer with a graphics card that runs DX10 Shader Model 4.0 (Direct X 10), an OS of Windows 7 or greater and ideally a computer(s) with 8-16GB of RAM. Open source software needed will be Visual 2015 with C++ Tools and Windows 10 SDK for the development of this project.
+
 ### Skills Required
+
+The skills required will not be just limited to coding the game for this project. Considering AFL is licensed by the AFL there will need to be some skills in brokering license agreement to allow the likeness of players, the sport and AFL brand to be represented in the video game. In addition marketers will be needed to be hired to promote and advertise the game, as well as getting it to the various iOS/Android stores by submitting the various paperwork needed. Finally developers proficient in C# with knowledge of how AFL works to code the game and various animators for modelling of players, stadiums etc.
 
 ### Outcome
 
