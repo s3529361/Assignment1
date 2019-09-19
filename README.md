@@ -142,4 +142,29 @@ The results will influence me in several ways, I think having a high score in ag
 
 When forming a team I need to understand my personal constraints and pair up people who do well in Openess and get low scores in Extraversion, that way there's a wide range of personality types where we can play off each other's strengths and weaknesses. I'd have to be wary of people who aren't as "agreeable" as myself and try to compromise when possible so whatever project I have with a team can get sorted out.
 
+## Project Idea
 
+AFL 2020 (iOS & Android)
+
+### Overview
+
+In summary the project will be the creation of a sports game called “AFL 2020” which will be available on iOS & Android only with potential plans for a port on the newest generation of consoles depending on success of the title. As the name implies, the video game will be based on the AFL with all 18 teams in the AFL playable including the VFL, SANFL, WAFL, U18 TAC Cup & AFL with a career mode for the selected team or creating a playable footballer and guiding them through their career, starting from the bottom and rising to the top as a pro footballer.
+
+### Motivation
+
+The interest for this project is due to the severe lagging in AFL sports game representing the current mobile market, the last AFL game on the mobile market was AFL Live 2 released on the iOS on 28th May 2015 & Android on the 26th of September, 2015. Considering the wide interest people have in AFL both casual and hardcore gamers alike needing their fix on the go, it would certainly have a viable audience especially with AFL Live 2 being rated in the Top 6 in Sports games on the Apple Store as of 2019, a new AFL game with better graphics, updated team rosters and improvements to the AI would be quite profitable. 
+
+
+### Description
+
+
+
+
+
+### Tools and Technologies
+
+### Skills Required
+
+### Outcome
+
+If the project is successful, AFL 2020 would be released on the Apple Store for iOS Devices (iPhones & Tablets) & Google Play for Android Devices (Phones & Tablets) to be purchased for $15 AUD. The release of this project will fill the void of a severely under looked and underrepresented genre of AFL Videos games on the market, potentially exposing international customers to AFL & Australian culture which would be very positive for the AFL in growing the sport overseas as they have recently in China & New Zealand as well as providing AFL sports lovers with a new AFL game for their favourite mobile device to play as their sporting heroes.
