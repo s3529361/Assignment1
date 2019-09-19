@@ -176,7 +176,7 @@ Without possession of the ball:
 
 Both modes include the ability to sprint and move around freely with options to changes players on the interchange bench, with random simulations for injury as well as umpiring decisions that follow AFL (such as holding the ball or going out of bounds).
 
-Overall AFL 2020 will give a realistic simulator of an AFL Match that passionate football supporters will know and love.
+Overall AFL 2020 will give a realistic simulation of an AFL Match that bpth passionate football supporters & casual players will know and love.
 
 ### Tools and Technologies
 
